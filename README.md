@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LoicOuth
+- 🌱 I’m currently learning Vue JS
